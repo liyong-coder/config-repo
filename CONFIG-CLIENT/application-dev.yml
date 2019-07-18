@@ -1,1 +1,1 @@
-foo: LIYONG
+foo: ${democonfigclient.message}
