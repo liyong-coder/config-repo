@@ -1,6 +1,4 @@
-foo: SERVICE-HI
-
-message: ${message}
+message: ${mess}
 
 
 eureka:
