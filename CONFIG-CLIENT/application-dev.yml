@@ -1,11 +1,3 @@
 foo: LIYONG
 
 message: ${message}
-
-
-eureka:
-  client:
-    service-url:
-      defaultZone: http://${hyzs.common.eureka.host}:${hyzs.common.eureka.port}/eureka
-  instance:
-    prefer-ip-address: true
