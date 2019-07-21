@@ -1,3 +1,7 @@
-name: '{cipher}1588868b3aeda702131a8ceb178ed3cbd4408dbd0f4ac4c05a4a625a74e3ceb7'
-password: '{cipher}afb37de1588bf62d959d228de025368008f5ad569126df4885573fd72013f762'
+#name: '{cipher}1588868b3aeda702131a8ceb178ed3cbd4408dbd0f4ac4c05a4a625a74e3ceb7'
+#password: '{cipher}afb37de1588bf62d959d228de025368008f5ad569126df4885573fd72013f762'
+name: liyong
+
+password: 123456
+
 message: ${mess}
