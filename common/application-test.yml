@@ -1,1 +1,1 @@
-mess: application-test(common)
+profile: common:test
