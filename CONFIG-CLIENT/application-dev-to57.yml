@@ -4,5 +4,5 @@ name: test57
 
 password: 123456
 
-message: 57
-foo: xxx
+message: ${mess}
+foo: dev-to57
