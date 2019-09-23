@@ -6,3 +6,5 @@ hyzs:
     kafka:
       host: localhost
       post: 9092
+
+message: zzzz
