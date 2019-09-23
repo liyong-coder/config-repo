@@ -8,3 +8,7 @@ eureka:
       defaultZone: http://${hyzs.common.eureka.host}:${hyzs.common.eureka.post}/eureka
   instance:
     prefer-ip-address: true
+
+spring:
+  kafka:
+    bootstrap-servers: ${hyzs.common.kafka.host}:${hyzs.common.kafka.post}

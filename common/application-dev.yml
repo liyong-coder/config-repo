@@ -3,3 +3,6 @@ hyzs:
     eureka:
       host: localhost
       post: 8761
+    kafka:
+      host: localhost
+      post: 9092
