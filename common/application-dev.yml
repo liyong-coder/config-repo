@@ -1,2 +1,5 @@
-profile: common:dev
-message: common-dev
+hyzs:
+  common:
+    eureka:
+      host: localhost
+      post: 8761

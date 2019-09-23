@@ -1,10 +1,9 @@
 profile: devs
-mess: ${message}
-
+message: liyong
 
 eureka:
   client:
     service-url:
-      defaultZone: http://localhost:8761/eureka
+      defaultZone: http://${hyzs.common.eureka.host}:${hyzs.common.eureka.post}/eureka
   instance:
     prefer-ip-address: true
