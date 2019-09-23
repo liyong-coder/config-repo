@@ -12,3 +12,9 @@ eureka:
 spring:
   kafka:
     bootstrap-servers: ${hyzs.common.kafka.host}:${hyzs.common.kafka.post}
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
