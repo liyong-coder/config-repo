@@ -1,7 +1,7 @@
 hyzs:
   common:
     eureka:
-      host: localhost
+      host: 172.16.8.31
       post: 8761
     kafka:
       host: localhost
